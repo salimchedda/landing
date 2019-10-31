@@ -1,0 +1,45 @@
+.footer .links .fab {
+display: inline-block;
+color: #1DDD88;
+width: 1.25em;
+}
+
+.footer .links {
+text-align: center;
+width: 100%;
+}
+
+.fab-facebook-f {
+  size: 100px;
+}
+.fab {
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+}
+
+.footer {
+  display: flex;
+  background-color: #2C2B2A;
+  background-size: cover;
+  padding: 80px 0px;
+  text-align: center;
+  width: 100%;
+}
+
+.footer p {
+  text-align: center;
+  color: grey;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.footer i {
+  width: 30px;
+  font-size: 40px;
+}
